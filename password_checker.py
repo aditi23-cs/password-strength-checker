@@ -78,3 +78,6 @@ while True:
         print("Goodbye!")
         break
     check_password_strength(pwd)
+
+
+# To run this program, open terminal and type: python password_checker.py
